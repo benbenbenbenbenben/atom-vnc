@@ -1,0 +1,23 @@
+{
+  "name": "vnc",
+  "author": "Andrey Sidorov <sidorares@yandex.com>",
+  "main": "./lib/vnc",
+  "version": "0.1.4",
+  "description": "VNC client for atom",
+  "repository": "https://github.com/sidorares/atom-vnc",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "keywords": [
+    "vnc",
+    "rdp",
+    "screen sharing",
+    "remote"
+  ],
+  "dependencies": {
+    "rfb2": "~0.0.10",
+    "atom-space-pen-views": "^2.0.3",
+    "space-pen": "^5.1.1"
+  }
+}
