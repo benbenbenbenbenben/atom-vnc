@@ -16,8 +16,9 @@
     "remote"
   ],
   "dependencies": {
-    "rfb2": "~0.0.10",
     "atom-space-pen-views": "^2.0.3",
+    "konva": "git+https://github.com/benbenbenbenbenben/konva.git",
+    "rfb2": "~0.0.10",
     "space-pen": "^5.1.1"
   }
 }
